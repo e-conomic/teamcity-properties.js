@@ -1,0 +1,10 @@
+# dependency folders
+node_modules
+
+# project files
+.idea
+*.iml
+
+# auto-generated
+.git
+/coverage
